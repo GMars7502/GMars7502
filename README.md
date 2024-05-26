@@ -1,5 +1,5 @@
 ## Console.WriteLine("Hola,Bienvenido");
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpb2c5eHJka2x4cHVxanFwbjZqNHpmZnl2dW4yanQyeWxtYXZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="120px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpb2c5eHJka2x4cHVxanFwbjZqNHpmZnl2dW4yanQyeWxtYXZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="300px">
 
 ## Intereses y conocimientos
 <h3>-Aprendiendo lenguaje programación C#</h3>
