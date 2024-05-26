@@ -1,4 +1,13 @@
-## Hi there 👋
+## Console.WriteLine("Hola,Bienvenido");
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpb2c5eHJka2x4cHVxanFwbjZqNHpmZnl2dW4yanQyeWxtYXZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="60px">
+
+-Aprendiendo lenguaje programación C#
+-Interesado en el .NET backend
+-Conocimiento en SQL (SQL SERVER, MySql)
+-HTML
+-CSS
+
+
 
 <!--
 **GMars7502/GMars7502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
