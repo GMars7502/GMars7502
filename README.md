@@ -7,8 +7,7 @@
 <h3>-Conocimiento en SQL (SQL SERVER, MySql)</h3>
 <h3>-HTML</h3>
 <h3>-CSS</h3>
-💬 Ask me about ... manuelrestanrs@gmail.com
-
+<h3>💬 Ask me about ... manuelrestanrs@gmail.com</h3>
 
 <!--
 **GMars7502/GMars7502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
