@@ -3,11 +3,11 @@
 
 ## Intereses y conocimientos
 <h3>-Aprendiendo lenguaje programación C#</h3>
-<h3>-Interesado en el .NET backend</h3>
+<h3>-Interesado en el mundo backend</h3>
 <h3>-Conocimiento en SQL (SQL SERVER, MySql)</h3>
 <h3>-HTML</h3>
 <h3>-CSS</h3>
-
+💬 Ask me about ... manuelrestanrs@gmail.com
 
 
 <!--
