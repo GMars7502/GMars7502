@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpb2c5eHJka2x4cHVxanFwbjZqNHpmZnl2dW4yanQyeWxtYXZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="300px">
 
 ## Intereses y conocimientos
-<h3>-Aprendiendo lenguaje programación C#</h3>
+<h3>-Aprendiendo lenguaje C#</h3>
 <h3>-Interesado en el mundo backend</h3>
 <h3>-Conocimiento en SQL (SQL SERVER, MySql)</h3>
 <h3>-HTML</h3>
